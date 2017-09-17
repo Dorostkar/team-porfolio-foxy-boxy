@@ -354,27 +354,4 @@ form .form-control {
 }
 .top-nav ul.navbar-nav li.active a{
     color: #34c6d3;
-=======
-h1 {
-	font-family: 'Henny Penny', cursive;
-	font-size: 36px bold;
-	color: #a9683d;
-	padding: 25px;
-}
-
-.btn {
-  padding-left: 10px;
-  text-decoration: none;
-  color: #a9683d;
-}
-
-a {
-  color: #e7e7e7;
-  font-family:cursive;
-}
-
-a:hover {
-  color: #a9683d;
-  text-decoration: none;
-
 }
