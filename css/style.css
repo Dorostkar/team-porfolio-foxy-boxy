@@ -140,7 +140,7 @@ height: 100%;
     width: 60%;
     height: 700px;
     float: right;
-    background-image: url(../img/bg-about.jpg);
+    background-image: url(../img/bg-about.jpg); //ADD BCKGROUNF HERE
     border-left: 200px solid #fff;
     border-top: 700px solid transparent;
 }
@@ -321,6 +321,17 @@ form .form-control {
     background: rgba(0,0,0,0.7);
     padding: 7px 0;
 }
+
+#logo{
+  width: 45px;
+  height: 50px;
+  position: relative;
+  top:-15px;
+  left:-95px;
+  background: rgba(0,0,0,0.7);
+
+}
+
 .nav-wrapper{
     padding: 0 85px;
 }
