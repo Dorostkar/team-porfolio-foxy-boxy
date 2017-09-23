@@ -65,12 +65,12 @@ btn-white:focus {
     background-color: #fff;
     color: #41464b;
 }
-.btn-blue {
+.btn-orange {
     color: orange;
     border-color: orange;
 }
-.btn-blue:hover,
-btn-blue:focus {
+.btn-orange:hover,
+btn-orange:focus {
     background-color: orange;
     color: #fff;
 }
@@ -145,7 +145,7 @@ height: 100%;
     width: 60%;
     height: 700px;
     float: right;
-    background-image: url(../img/bg-about.jpg); //ADD BCKGROUNF HERE
+    background-image: url(../img/bg-about.jpg);
     border-left: 200px solid #fff;
     border-top: 700px solid transparent;
 }
